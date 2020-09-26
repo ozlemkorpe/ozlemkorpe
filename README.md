@@ -3,8 +3,15 @@
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/ozlemkorpe/ozlemkorpe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozlemkorpe&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=031F3E" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozlemkorpe&hide=java,html&title_color=000000&text_color=000000&icon_color=2bbc8a&bg_color=#FFFFFF" />
 </>
 <a href="https://github.com/ozlemkorpe/ozlemkorpe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ozlemkorpe&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=ffff00&bg_color=031F3E" alt="Özlem's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ozlemkorpe&show_icons=true&line_height=30&count_private=true&title_color=000000&text_color=000000&icon_color=ffff00&bg_color=FFFFFF" alt="Özlem's GitHub Stats" />
 </a>
+
+## Latest Posts
+
+<ul>
+  <li><a href="https://www.linkedin.com/pulse/solving-titanic-machine-learning-from-disaster-kaggle-%25C3%25B6zlem-k%25C3%25B6rpe/?trackingId=XaUK3l2u3DaMEKBHMNJ%2Bvw%3D%3D"><b>✅ Solving “Titanic: Machine Learning from Disaster Competition” from Kaggle with Decision Tree Algorithm by Using MATLAB</b></a></li>
+</ul>
+
