@@ -16,4 +16,9 @@
   <li><a href="https://www.linkedin.com/pulse/solving-titanic-machine-learning-from-disaster-kaggle-%25C3%25B6zlem-k%25C3%25B6rpe/?trackingId=XaUK3l2u3DaMEKBHMNJ%2Bvw%3D%3D"><b>✅ Solving “Titanic: Machine Learning from Disaster Competition” from Kaggle with Decision Tree Algorithm by Using MATLAB</b></a></li>
 </ul>
 
-
+## Working On
+<ul>
+  <li><b> :black_square_button: Post Quantum Cryptography and Quantum Breakable Ciphers </b> </li>
+  <li><b> :black_square_button: Stable and Unstable Algorithms </b> </li>
+  <li><b> :black_square_button: Checksum Error Detection </b> </li>
+</ul>
