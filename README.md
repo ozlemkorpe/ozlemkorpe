@@ -21,4 +21,5 @@
   <li><b> :black_square_button: Post Quantum Cryptography and Quantum Breakable Ciphers </b> </li>
   <li><b> :black_square_button: Stable and Unstable Algorithms </b> </li>
   <li><b> :black_square_button: Checksum Error Detection </b> </li>
+  <li><b> :black_square_button: Dynamic Programming </b> </li>
 </ul>
