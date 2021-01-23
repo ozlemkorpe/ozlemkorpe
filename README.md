@@ -22,4 +22,7 @@
   <li><b> :black_square_button: Stable and Unstable Algorithms </b> </li>
   <li><b> :black_square_button: Checksum Error Detection </b> </li>
   <li><b> :black_square_button: Dynamic Programming </b> </li>
+  <li><b> :black_square_button: Race Condition between Processes </b> </li>
+  <li><b> :black_square_button: Critical Section Problem </b> </li>
+  <li><b> :black_square_button: Cardiac Sounds Disease Detection </b> </li>
 </ul>
