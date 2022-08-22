@@ -19,8 +19,8 @@
 
 ## Working On
 <ul>
-  <li><b> :black_square_button: Stable and Unstable Algorithms </b> Due: September 2022 </li>
-  <li><b> :black_square_button: Checksum Error Detection Due: September 2022 </b> </li>
-  <li><b> :black_square_button: Dynamic Programming  </b> Due: November 2022 </li>
-  <li><b> :black_square_button: Race Condition between Processes </b> Due: November 2022 </li>
+  <li><b> :black_square_button: Stable and Unstable Algorithms </b> - Due: September 2022 </li>
+  <li><b> :black_square_button: Checksum Error Detection - Due: September 2022 </b> </li>
+  <li><b> :black_square_button: Dynamic Programming  </b> - Due: November 2022 </li>
+  <li><b> :black_square_button: Race Condition between Processes </b> - Due: November 2022 </li>
 </ul>
