@@ -20,10 +20,9 @@
 |<img height="125px" width="125px" src="https://www.turkishtestingboard.org/wp-content/uploads/2022/04/Sinav_urun_gorselleri-4.png"/>| <img align="left" height="125px" width="125px" src="https://www.turkishtestingboard.org/wp-content/uploads/2022/09/Agile-Tester-Exam-2022.png"/> | <img align="left" height="125px" width="125px" src="https://www.turkishtestingboard.org/wp-content/uploads/2022/09/Foundation-Level-Exam-2022.png"/> | <img  align="center" height="92px" width="92px" src="https://cms.gladwellacademy.com/storage/media/Certificates/Scrum.org/BADGES_FINAL_PSM-I_600.png"/> |
 |**Issued by Turkish Testing Boards**  | **Issued by Turkish Testing Boards**  | **Issued by Turkish Testing Boards**  | **Issued by Scrum.org**  |
 
--->
-
 <br/>
-
+-->
+  
 <a href="https://www.linkedin.com/in/ozlemkorpe/">
 <img align="left" alt="Ozlem's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
