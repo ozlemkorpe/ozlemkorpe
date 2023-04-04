@@ -26,5 +26,5 @@
 <a href="https://www.linkedin.com/in/ozlemkorpe/">
 <img align="left" alt="Ozlem's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-Please find me on [LinkedIn](https://www.linkedin.com/in/ozlemkorpe) for a more detailed description of my full work experience, education and certifications.
+Please find me on Linkedin for a more detailed description of my full work experience, education and certifications.
 
