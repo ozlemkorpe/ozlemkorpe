@@ -6,8 +6,7 @@
 
 **What do I do is:**
 <br>
-[<img align="left" height="94px" width="94px" alt="Invicti Security" src="https://media.glassdoor.com/sqll/3367383/invicti-security-squareLogo-1627310376945.png"/>](https://www.invicti.com/)
-
+[<img align="left" height="55px" width="55px" alt="Invicti Security" src="https://media.glassdoor.com/sqll/3367383/invicti-security-squareLogo-1627310376945.png"/>](https://www.invicti.com/)
 **Senior QA Engineer** \
 [**Invicti Security**](https://www.invicti.com/) • Full-time • Remote \
 <!--Languages & Technologies: `Python`, `Django`, `C++`, `JavaScript` \ -->
