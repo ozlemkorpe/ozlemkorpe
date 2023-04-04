@@ -9,4 +9,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozlemkorpe&html&title_color=000000&text_color=000000&icon_color=2bbc8a&bg_color=#FFFFFF" />
 </>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+Whoami:
+💻 I am a seasoned QA Engineer with over 5 years of experience in manual and automated testing.
+🏆 Already received ISTQB® Advanced Level Test Analsyt, Agile Tester and Foundation Level certifications. Aiming for more!
+📚 I am currently studying for ISTQB® certification exams. 
