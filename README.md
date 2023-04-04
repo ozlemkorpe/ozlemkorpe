@@ -10,16 +10,16 @@
 **Senior QA Engineer** \
 [**Invicti Security**](https://www.invicti.com/) • Full-time • Remote 
 <!--Languages & Technologies: `Python`, `Django`, `C++`, `JavaScript` \ -->
-<br/>
-
 <!--
+  <br/>
+
+
 **My Certifications**
 
 | ISTQB® Advanced Level Test Analyst | ISTQB® Foundation Level Agile Tester |ISTQB® Foundation Level Tester | Professional Scrum Master I |
 | --- | --- | --- | --- |
 |<img height="125px" width="125px" src="https://www.turkishtestingboard.org/wp-content/uploads/2022/04/Sinav_urun_gorselleri-4.png"/>| <img align="left" height="125px" width="125px" src="https://www.turkishtestingboard.org/wp-content/uploads/2022/09/Agile-Tester-Exam-2022.png"/> | <img align="left" height="125px" width="125px" src="https://www.turkishtestingboard.org/wp-content/uploads/2022/09/Foundation-Level-Exam-2022.png"/> | <img  align="center" height="92px" width="92px" src="https://cms.gladwellacademy.com/storage/media/Certificates/Scrum.org/BADGES_FINAL_PSM-I_600.png"/> |
 |**Issued by Turkish Testing Boards**  | **Issued by Turkish Testing Boards**  | **Issued by Turkish Testing Boards**  | **Issued by Scrum.org**  |
-
 <br/>
 -->
   
