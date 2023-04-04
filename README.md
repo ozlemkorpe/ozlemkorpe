@@ -10,10 +10,10 @@
 **Senior QA Engineer** \
 [**Invicti Security**](https://www.invicti.com/) • Full-time • Remote 
 <!--Languages & Technologies: `Python`, `Django`, `C++`, `JavaScript` \ -->
-<!--
+
   <br/>
 
-
+<!--
 **My Certifications**
 
 | ISTQB® Advanced Level Test Analyst | ISTQB® Foundation Level Agile Tester |ISTQB® Foundation Level Tester | Professional Scrum Master I |
