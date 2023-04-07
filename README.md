@@ -6,7 +6,7 @@
 
 **Currently working as:**
 <br>
-[<img align="left" height="55px" width="55px" alt="Invicti Security" src="https://media.glassdoor.com/sqll/3367383/invicti-security-squareLogo-1627310376945.png"/>](https://www.invicti.com/)
+[<img align="left" height="49px" width="49px" alt="Invicti Security" src="https://media.glassdoor.com/sqll/3367383/invicti-security-squareLogo-1627310376945.png"/>](https://www.invicti.com/)
 **Senior QA Engineer** \
 [**Invicti Security**](https://www.invicti.com/) • Full-time • Remote 
 <br/>
