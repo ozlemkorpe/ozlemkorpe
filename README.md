@@ -1,4 +1,4 @@
-### Hey There!
+# Hey There!
 
 <p> I'm Özlem, Sr. QA Engineer from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909414.png" width="13"/> <b>Antalya, Turkey</b>
 
@@ -9,22 +9,40 @@
 [<img align="left" height="55px" width="55px" alt="Invicti Security" src="https://media.glassdoor.com/sqll/3367383/invicti-security-squareLogo-1627310376945.png"/>](https://www.invicti.com/)
 **Senior QA Engineer** \
 [**Invicti Security**](https://www.invicti.com/) • Full-time • Remote 
-<!--Languages & Technologies: `Python`, `Django`, `C++`, `JavaScript` \ -->
-
-  <br/>
-
-<!--
-**My Certifications**
-
-| ISTQB® Advanced Level Test Analyst | ISTQB® Foundation Level Agile Tester |ISTQB® Foundation Level Tester | Professional Scrum Master I |
-| --- | --- | --- | --- |
-|<img height="125px" width="125px" src="https://www.turkishtestingboard.org/wp-content/uploads/2022/04/Sinav_urun_gorselleri-4.png"/>| <img align="left" height="125px" width="125px" src="https://www.turkishtestingboard.org/wp-content/uploads/2022/09/Agile-Tester-Exam-2022.png"/> | <img align="left" height="125px" width="125px" src="https://www.turkishtestingboard.org/wp-content/uploads/2022/09/Foundation-Level-Exam-2022.png"/> | <img  align="center" height="92px" width="92px" src="https://cms.gladwellacademy.com/storage/media/Certificates/Scrum.org/BADGES_FINAL_PSM-I_600.png"/> |
-|**Issued by Turkish Testing Boards**  | **Issued by Turkish Testing Boards**  | **Issued by Turkish Testing Boards**  | **Issued by Scrum.org**  |
 <br/>
--->
   
-<a href="https://www.linkedin.com/in/ozlemkorpe/">
+## My Certifications 
+  
+[<img align="left" height="30px" width="30px" src="https://github.com/ozlemkorpe/ozlemkorpe/blob/master/Logos/CTAL-TA.png?raw=true"/>](/)
+**ISTQB® Advanced Level Test Analyst** 
+  
+[<img align="left" height="30px" width="30px" src="https://github.com/ozlemkorpe/ozlemkorpe/blob/master/Logos/CTFL-AT.png?raw=true"/>](/)
+**ISTQB® Foundation Level Agile Tester** 
+  
+[<img align="left" height="30px" width="30px" src="https://github.com/ozlemkorpe/ozlemkorpe/blob/master/Logos/CTFL.png?raw=true"/>](/)
+**ISTQB® Foundation Level Tester** 
+  
+[<img align="left" height="30px" width="30px" src="https://github.com/ozlemkorpe/ozlemkorpe/blob/master/Logos/PSM1.png?raw=true"/>](/)
+**Professional Scrum Master I** 
+
+  
+<!-- `Fiddler` `Playwrigth` `Practitest` `Testrail` `Git` `Netsparker` `Acunetix` `SQL` `JQL` -->
+## My ToolBox
+
+  <img align="left" height="30px" width="30px" src="https://github.com/ozlemkorpe/ozlemkorpe/blob/master/Logos/Git.png?raw=true"/> 
+  <img align="left" height="30px" width="30px" src="https://github.com/ozlemkorpe/ozlemkorpe/blob/master/Logos/Playwrigth.png?raw=true"/>
+  <img align="left" height="30px" width="30px" src="https://github.com/ozlemkorpe/ozlemkorpe/blob/master/Logos/PractiTest.png?raw=true"/>
+  <img align="left" height="30px" width="30px" src="https://github.com/ozlemkorpe/ozlemkorpe/blob/master/Logos/Testrail.png?raw=true"/>
+ <img align="left" height="30px" width="30px" src="https://github.com/ozlemkorpe/ozlemkorpe/blob/master/Logos/AWS.png?raw=true"/>
+  <img align="left" height="30px" width="30px" src="https://github.com/ozlemkorpe/ozlemkorpe/blob/master/Logos/FiddlerEverywhere.png?raw=true"/>
+  <img align="left" height="30px" width="30px" src="https://github.com/ozlemkorpe/ozlemkorpe/blob/master/Logos/Jenkins.png?raw=true"/>
+  <img align="left" height="30px" width="30px" src="https://github.com/ozlemkorpe/ozlemkorpe/blob/master/Logos/TeamCity.png?raw=true"/>
+  <img align="left" height="30px" width="30px" src="https://github.com/ozlemkorpe/ozlemkorpe/blob/master/Logos/MSAzure.png?raw=true"/>
+  <img align="left" height="30px" width="30px" src="https://github.com/ozlemkorpe/ozlemkorpe/blob/master/Logos/Selenium.png?raw=true"/>
+  
+  
+  <br/> <br/>
+  <a href="https://www.linkedin.com/in/ozlemkorpe/">
 <img align="left" alt="Ozlem's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 Please find me on Linkedin for a more detailed description of my full work experience, education and certifications.
-
