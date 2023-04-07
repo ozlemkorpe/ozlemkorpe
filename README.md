@@ -58,9 +58,5 @@
 <a href="https://www.leetcode.com/ozlemkorpe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ozlemkorpe" height="30" width="40" /></a>
 -->
 
-<h3 align="left">My Stats:</h3>
-
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ozlemkorpe&show_icons=true&theme=dark&cache_seconds=1800&locale=en" alt="ozlemkorpe" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ozlemkorpe&theme=dark" alt="ozlemkorpe" />
 
 
