@@ -1,7 +1,5 @@
-# Hey There!
-
-<p> I'm Özlem, Sr. QA Engineer from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909414.png" width="13"/> <b>Antalya, Turkey</b>
-
+<h1 align="center">Hey There</h1>
+<h3 align="center">I'm Özlem, Sr. QA Engineer from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909414.png" width="13"/> <b>Antalya, Turkey</b></h3>
 
 
 **Currently working as:**
@@ -29,20 +27,40 @@
 <!-- `Fiddler` `Playwrigth` `Practitest` `Testrail` `Git` `Netsparker` `Acunetix` `SQL` `JQL` -->
 ## My ToolBox
 
-  <img align="left" height="30px" width="30px" src="https://github.com/ozlemkorpe/ozlemkorpe/blob/master/Logos/Git.png?raw=true"/> 
-  <img align="left" height="30px" width="30px" src="https://github.com/ozlemkorpe/ozlemkorpe/blob/master/Logos/Playwrigth.png?raw=true"/>
-  <img align="left" height="35px" width="35px" src="https://github.com/ozlemkorpe/ozlemkorpe/blob/master/Logos/PractiTest1.png?raw=true"/>
-  <img align="left" height="30px" width="30px" src="https://github.com/ozlemkorpe/ozlemkorpe/blob/master/Logos/Testrail.png?raw=true"/>
- <img align="left" height="30px" width="30px" src="https://github.com/ozlemkorpe/ozlemkorpe/blob/master/Logos/AWS.png?raw=true"/>
-  <img align="left" height="30px" width="30px" src="https://github.com/ozlemkorpe/ozlemkorpe/blob/master/Logos/FiddlerEverywhere.png?raw=true"/>
-  <img align="left" height="30px" width="30px" src="https://github.com/ozlemkorpe/ozlemkorpe/blob/master/Logos/Jenkins.png?raw=true"/>
-  <img align="left" height="30px" width="30px" src="https://github.com/ozlemkorpe/ozlemkorpe/blob/master/Logos/TeamCity.png?raw=true"/>
-  <img align="left" height="30px" width="30px" src="https://github.com/ozlemkorpe/ozlemkorpe/blob/master/Logos/MSAzure.png?raw=true"/>
-  <img align="left" height="30px" width="30px" src="https://github.com/ozlemkorpe/ozlemkorpe/blob/master/Logos/Selenium.png?raw=true"/>
-  
-  
-  <br/> <br/>
-  <a href="https://www.linkedin.com/in/ozlemkorpe/">
-<img align="left" alt="Ozlem's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
-Please find me on Linkedin for a more detailed description of my full work experience, education and certifications.
+<img align="left" height="30px" width="30px" src="https://github.com/ozlemkorpe/ozlemkorpe/blob/master/Logos/Git.png?raw=true"/> 
+<img align="left" height="30px" width="30px" src="https://github.com/ozlemkorpe/ozlemkorpe/blob/master/Logos/Playwrigth.png?raw=true"/>
+<img align="left" height="35px" width="35px" src="https://github.com/ozlemkorpe/ozlemkorpe/blob/master/Logos/PractiTest1.png?raw=true"/>
+<img align="left" height="30px" width="30px" src="https://github.com/ozlemkorpe/ozlemkorpe/blob/master/Logos/Testrail.png?raw=true"/>
+<img align="left" height="30px" width="30px" src="https://github.com/ozlemkorpe/ozlemkorpe/blob/master/Logos/AWS.png?raw=true"/>
+<img align="left" height="30px" width="30px" src="https://github.com/ozlemkorpe/ozlemkorpe/blob/master/Logos/FiddlerEverywhere.png?raw=true"/>
+<img align="left" height="30px" width="30px" src="https://github.com/ozlemkorpe/ozlemkorpe/blob/master/Logos/Jenkins.png?raw=true"/>
+<img align="left" height="30px" width="30px" src="https://github.com/ozlemkorpe/ozlemkorpe/blob/master/Logos/TeamCity.png?raw=true"/>
+<img align="left" height="30px" width="30px" src="https://github.com/ozlemkorpe/ozlemkorpe/blob/master/Logos/MSAzure.png?raw=true"/>
+<img align="left" height="30px" width="30px" src="https://github.com/ozlemkorpe/ozlemkorpe/blob/master/Logos/Selenium.png?raw=true"/>
+<img align="left" height="30px" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg"/>
+<img align="left" height="30px" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"/>
+<img align="left" height="30px" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"/>
+<img align="left" height="30px" width="30px" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg"/>
+<img align="left" height="30px" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"/>
+<img align="left" height="30px" width="30px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg"/>
+<img align="left" height="30px" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png"/>
+
+<br/>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/ozlemkorpe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ozlemkorpe" height="30" width="40" /></a>
+</p>
+
+<!--
+<a href="https://kaggle.com/ozlemkorpe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ozlemkorpe" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/ozlemkorpe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ozlemkorpe" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ozlemkorpe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ozlemkorpe" height="30" width="40" /></a>
+-->
+
+<h3 align="left">My Stats:</h3>
+
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ozlemkorpe&show_icons=true&theme=dark&cache_seconds=1800&locale=en" alt="ozlemkorpe" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ozlemkorpe&theme=dark" alt="ozlemkorpe" />
+
+
