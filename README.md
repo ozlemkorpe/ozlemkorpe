@@ -31,7 +31,7 @@
 
   <img align="left" height="30px" width="30px" src="https://github.com/ozlemkorpe/ozlemkorpe/blob/master/Logos/Git.png?raw=true"/> 
   <img align="left" height="30px" width="30px" src="https://github.com/ozlemkorpe/ozlemkorpe/blob/master/Logos/Playwrigth.png?raw=true"/>
-  <img align="left" height="30px" width="30px" src="https://github.com/ozlemkorpe/ozlemkorpe/blob/master/Logos/PractiTest.png?raw=true"/>
+  <img align="left" height="30px" width="30px" src=""/>
   <img align="left" height="30px" width="30px" src="https://github.com/ozlemkorpe/ozlemkorpe/blob/master/Logos/Testrail.png?raw=true"/>
  <img align="left" height="30px" width="30px" src="https://github.com/ozlemkorpe/ozlemkorpe/blob/master/Logos/AWS.png?raw=true"/>
   <img align="left" height="30px" width="30px" src="https://github.com/ozlemkorpe/ozlemkorpe/blob/master/Logos/FiddlerEverywhere.png?raw=true"/>
