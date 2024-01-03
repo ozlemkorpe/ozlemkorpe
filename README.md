@@ -10,6 +10,8 @@
 <br/>
   
 ## My Certifications 
+[<img align="left" height="30px" width="30px" src="https://github.com/ozlemkorpe/ozlemkorpe/blob/master/Logos/CTAL-TA.png?raw=true"/>](/)
+**ISTQB® Advanced Level Test Manager** 
   
 [<img align="left" height="30px" width="30px" src="https://github.com/ozlemkorpe/ozlemkorpe/blob/master/Logos/CTAL-TA.png?raw=true"/>](/)
 **ISTQB® Advanced Level Test Analyst** 
