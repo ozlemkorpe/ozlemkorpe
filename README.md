@@ -4,12 +4,13 @@
 
 **Currently working as:**
 <br>
-[<img align="left" height="50px" width="120px" alt="Invicti Security" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRegwyLFd7UGnFUlXrD-3PPN4pzOG2a1trJBNqG7qGsgw&s"/>](https://www.invicti.com/)
 **Senior QA Engineer** \
-[**Invicti Security**](https://www.invicti.com/) • Full-time • Remote 
 <br/>
   
 ## My Certifications 
+[<img align="left" height="30px" width="30px" src="https://github.com/ozlemkorpe/ozlemkorpe/blob/master/Logos/CTAL-TA.png?raw=true"/>](/)
+**ISTQB® Advanced Level Test Automation Engineer** 
+
 [<img align="left" height="30px" width="30px" src="https://github.com/ozlemkorpe/ozlemkorpe/blob/master/Logos/CTAL-TA.png?raw=true"/>](/)
 **ISTQB® Advanced Level Test Manager** 
 
